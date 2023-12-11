@@ -6,14 +6,14 @@ Nakami George
 
 This repository contains solutions to three week1codechallenge.
 
- Challenges
+ '''Challenges
 
  Challenge 1: Converting 12-hour time to 24-hour time
 
 Implement a function that converts a 12-hour time to 24-hour time format.
 
 Example:
-```python
+python
 print(convert_to_24_hour_time(8, 30, 'am'))  # Output: 0830
 
  Challenge 2: Two numbers are positive
